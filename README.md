@@ -1,5 +1,5 @@
 # Coffee website project for frt
-Here I created a coffee store where you order coffee and having coffee recipe tutorials. 
+Here I created a coffee store website where you order coffee and having coffee recipe tutorials. 
 # Website Link
 https://gentle-glacier-067f21510.1.azurestaticapps.net/
 # Home Page
