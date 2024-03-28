@@ -1,7 +1,7 @@
 # Coffee website project for frt
 Here I created a coffee store website where you order coffee and having coffee recipe tutorials. 
 # Website Link
-https://gentle-glacier-067f21510.1.azurestaticapps.net/
+[https://gentle-glacier-067f21510.1.azurestaticapps.net/](https://green-stone-011b3aa10.5.azurestaticapps.net/)
 # Home Page
 ![Screenshot (196)](https://user-images.githubusercontent.com/88238469/175524522-b03efea7-84cb-4a92-b7f7-0e522aae8915.png)
 # About Page
